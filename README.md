@@ -1,5 +1,5 @@
 <img align='center' src="https://im3.ezgif.com/tmp/ezgif-3-67bb2ff6c7.gif"  />
-<h2 align="center">Hi 👋! My name is MARIII and I'm a student at @alx_africa. </h2>
+<h2 align="center">Hi 👋! My name is MARIII</h2>
 
 ###
 
