@@ -1,4 +1,4 @@
-<img align='center' src="https://im3.ezgif.com/tmp/ezgif-3-67bb2ff6c7.gif"  />
+<img align='center' src="https://imgur.com/vOyNZRd.gif"  />
 <h2 align="center">Hi 👋! My name is MARIII</h2>
 
 ###
